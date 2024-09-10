@@ -1,5 +1,5 @@
 # Trading-Algos
-<h3> A basic trading algorithm made using QuantConnect's API </h3>
+<h3> Some basic trading algorithm made using QuantConnect </h3>
 implement the code in Quantconnect's Strategy Builder 
 <br>
 NOTE : The Algorithm is for SPY index in order to change the securities change the SPY Tags and objects (even in the string)
