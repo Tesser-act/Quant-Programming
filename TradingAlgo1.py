@@ -1,4 +1,5 @@
 #clear the default template
+#this might have some basic errors as it was my first time and I haven't backtested it. 
 from AlgorithmImports import *
 
 
