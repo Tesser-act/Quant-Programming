@@ -1,7 +1,7 @@
-#imports
+
 from AlgorithmImports import *
 
-
+#main
 class MeasuredMagentaHornet(QCAlgorithm):
 
     def initialize(self):
